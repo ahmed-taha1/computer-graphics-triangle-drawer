@@ -1,0 +1,3 @@
+F:/education/32/Computer Graphics/task1/cmake-build-debug/CMakeFiles/task1.dir
+F:/education/32/Computer Graphics/task1/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/education/32/Computer Graphics/task1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
